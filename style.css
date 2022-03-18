@@ -16,6 +16,10 @@ h1{
   font-size: 32PX;
   font-weight: 900x;
 }
+p{
+    text-align: left;
+}
+
 
 h2{
   color: #2471A3;
